@@ -162,6 +162,17 @@ Updated: **August 2, 2026**
 
 ---
 
+## EXP.ALL / Exp Share
+
+| Feature | Status |
+| --- | --- |
+| Vanilla **EXP.ALL** item | Built into Gen 1 (Route 15 Aide) — not a mod |
+| Always-on / Gen-6-style party Exp Share | **Not researched as an existing mod** — OK to build |
+| Battle EXP **bar** | Already done (`battle_exp_bar` / QoL) — different feature |
+| Step → party EXP | `pokewalker` — different feature |
+
+---
+
 ## Still open (OK to build) — see `MOD-IDEAS.md`
 
 Examples **not** on this machine as a dedicated mod yet:
