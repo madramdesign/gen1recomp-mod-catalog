@@ -23,7 +23,8 @@ this inventory sets unknown/new mods to **`false`** until you opt in.
 | `nuzlocke` | Nuzlocke | 1.0.1 | Disabled |
 | `overworld_wild_spawns` | Wilds of Kanto | 0.6.0 | Enabled |
 | `battle_exp_bar` | Battle EXP Bar | 1.0.0 | Enabled |
-| `professor_oak_challenge` | Professor Oak Challenge | 0.1.0 | Enabled |
+| `exp_share` | Exp Share | 1.0.0 | Enabled |
+| `professor_oak_challenge` | Professor Oak Challenge | 0.3.0 | Enabled |
 | `pokemon_randomizer` | Pokémon Gen 1 Randomizer | 0.46.1 | Disabled |
 | `pokewalker` | Pokewalker (Step Sync) | 0.3.2 | Disabled |
 | `quality_of_life` | Quality of Life from later generations | 1.2.2 | Disabled |
@@ -102,7 +103,7 @@ this inventory sets unknown/new mods to **`false`** until you opt in.
 
 ## Notes
 
-- Currently enabled: **overworld_wild_spawns** + **battle_exp_bar** + **professor_oak_challenge** + **crystal_animated_sprites_with_shiny_visuals** + **SHINY_POKEMON**. Game speed ×2, text Fast, MAX FPS 120.
+- Currently enabled: **overworld_wild_spawns** + **battle_exp_bar** + **exp_share** + **professor_oak_challenge** + **crystal_animated_sprites_with_shiny_visuals** + **SHINY_POKEMON**. Game speed ×2, text Fast, MAX FPS 120.
 - Do not stack overlapping QoL (e.g. `pc_anywhere` + `ACCESS_PC_ANYWHERE`, `walk_behind` + `FOLLOWERS_EX`, `red_blue_qol` + `quality_of_life` / `running_shoes` / `bag_999`).
 - `Gen_5_6_7_Cries` came from the Stadium-Cries repo’s Gen 5–7 cry pack (that repo’s available release assets).
 - Soft-lock risk mods (`walk_behind`, heavy UI like PC overhauls): enable one at a time and test.

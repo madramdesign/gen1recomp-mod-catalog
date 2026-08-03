@@ -7,7 +7,7 @@ Ideas drawn from PureRGB / Beyond RB / RBY Nova / Shin / community challenge cul
 > **Before building anything new:** read [`FEATURES-DONE.md`](./FEATURES-DONE.md) — master list of features already shipped on this install. Do not recreate those.
 >
 > Hub for sharing: [Discord](https://bois.icu) · [mod index](https://github.com/bryanthaboi/gen1recomp-mod-index)  
-> Already built by us: Battle EXP Bar, Professor Oak Challenge (Mewlax order + area HUD)
+> Already built by us: Battle EXP Bar, Exp Share, Professor Oak Challenge (Mewlax order + area HUD)
 
 ---
 
@@ -20,6 +20,7 @@ Full detail + overlap matrix: **`FEATURES-DONE.md`**. Summary:
 | Voxel 3D overworld | `DRAMATIC_SHAPE` |
 | Visible wilds in grass | `overworld_wild_spawns` |
 | Battle EXP bar | `battle_exp_bar` / QoL |
+| Always-on Exp Share (modern / classic) | `exp_share` |
 | Professor Oak Challenge + area HUD | `professor_oak_challenge` |
 | Nuzlocke | `nuzlocke` |
 | Randomizer | `pokemon_randomizer` |

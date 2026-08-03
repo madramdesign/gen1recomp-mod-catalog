@@ -7,12 +7,11 @@ Personal research catalog of **Gen1Recomp** mods researched, installed, and auth
 ## Quick answers
 
 ### Does any mod do EXP.ALL / Exp Share?
-**Not as a dedicated always-on / modern Exp Share mod** in this catalog. Vanilla **EXP.ALL** (Route 15 Aide) still works. Closest related mods:
-- `battle_exp_bar` / QoL — battle **EXP bar UI**, not sharing
-- `pokewalker` — step-synced party EXP (mobile)
+Yes — [`exp_share`](https://github.com/madramdesign/gen1recomp-exp-share) (MODERN / CLASSIC). Vanilla EXP.ALL still exists too.
 
 ### What did we author?
 - [Battle EXP Bar](https://github.com/madramdesign/gen1recomp-battle-exp-bar)
+- [Exp Share](https://github.com/madramdesign/gen1recomp-exp-share)
 - [Professor Oak Challenge](https://github.com/madramdesign/gen1recomp-professor-oak-challenge)
 
 ## Links

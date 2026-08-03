@@ -22,6 +22,7 @@ Updated: **August 2, 2026**
 | Feature | Mod id | Notes |
 | --- | --- | --- |
 | Gen 3+ battle EXP bar | `battle_exp_bar` | Blue/black/off; classic + wide. Do **not** also enable QoL’s BATTLE EXP BAR |
+| Always-on Exp Share | `exp_share` | Modern = full EXP to all living party; Classic = Gen 1 EXP.ALL without the item |
 | Professor Oak Challenge | `professor_oak_challenge` | Mewlax RB order (Brock→Misty→Koga→Erika); soft/hard gates; Start checklist; **area catch HUD** |
 | POC area “NEED HERE” overlay | *(same)* | On map enter / always option |
 | POC guide tips in checklist | *(same)* | From Mewlax RB Oak Guide |
@@ -60,7 +61,8 @@ Updated: **August 2, 2026**
 
 | Feature | Mod id(s) | Do not rebuild |
 | --- | --- | --- |
-| EXP bar under HP | `battle_exp_bar`, `quality_of_life` | pick **one** EXP implementation |
+| EXP bar under HP | `battle_exp_bar`, `quality_of_life` | pick **one** EXP **bar** implementation |
+| Always-on party Exp Share | `exp_share` | ✓ — stacks with EXP bar; replaces vanilla EXP.ALL math while on |
 | Type matchup / move power on select | `MOVE_MATCHUP`, `battle_move_info` | overlapping — don’t ship a third |
 | Caught indicator in battle | `quality_of_life` | ✓ |
 | Widescreen battle intro flash | `widescreen_battle_intro` | ✓ |
@@ -167,7 +169,7 @@ Updated: **August 2, 2026**
 | Feature | Status |
 | --- | --- |
 | Vanilla **EXP.ALL** item | Built into Gen 1 (Route 15 Aide) — not a mod |
-| Always-on / Gen-6-style party Exp Share | **Not researched as an existing mod** — OK to build |
+| Always-on / Gen-6-style party Exp Share | **Done** — `exp_share` (modern / classic / off) |
 | Battle EXP **bar** | Already done (`battle_exp_bar` / QoL) — different feature |
 | Step → party EXP | `pokewalker` — different feature |
 

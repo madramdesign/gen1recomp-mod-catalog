@@ -23,17 +23,18 @@ This is a **personal research catalog** (madramdesign), not the official index.
 | --- | --- |
 | **Vanilla EXP.ALL** | Key item from Oak’s Aide (Route 15 Gate 2F). In bag → Gen 1 split EXP to whole party (with classic quirks). |
 | `exp.gain` / share funnel | Engine hooks (`trainer_rematch` mentions `applyShare` for participants + EXP.ALL). |
+| **`exp_share`** | **Done** — [madramdesign/gen1recomp-exp-share](https://github.com/madramdesign/gen1recomp-exp-share). |
 | `battle_exp_bar` | Shows EXP **bar** in battle — not party EXP sharing. |
 | `quality_of_life` | Battle XP **bar** + caught indicator — not Exp All. |
 | `pokewalker` | Real-world steps → party EXP (mobile) — different feature. |
 
-**Gap / idea:** a QoL mod for Gen-6-style always-on share (or auto-grant EXP.ALL) would be new work — see research notes.
 
 ## Authored by madramdesign
 
 | id | Name | Source |
 | --- | --- | --- |
 | `battle_exp_bar` | Battle EXP Bar | [madramdesign/gen1recomp-battle-exp-bar](https://github.com/madramdesign/gen1recomp-battle-exp-bar) — Authored by madramdesign |
+| `exp_share` | Exp Share | [madramdesign/gen1recomp-exp-share](https://github.com/madramdesign/gen1recomp-exp-share) — Authored by madramdesign |
 | `professor_oak_challenge` | Professor Oak Challenge | [madramdesign/gen1recomp-professor-oak-challenge](https://github.com/madramdesign/gen1recomp-professor-oak-challenge) — Authored by madramdesign |
 
 ## Official mod index (sourced)
